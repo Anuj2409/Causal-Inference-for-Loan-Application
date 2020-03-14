@@ -1,5 +1,5 @@
 # Causal-Inference-for-Loan-Application
-**The aim of this project is to conduct a study to check following hypothesis: Having a previous loan application causes loan applicants to default less**
+*The aim of this project is to conduct a study to check following hypothesis: Having a previous loan application causes loan applicants to default less*
 
 **Does having previous loan application(s) cause people to default less?**
 
